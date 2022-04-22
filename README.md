@@ -19,6 +19,17 @@ Business Intelligence
     1. Excel
     2. Power BI
     
-## 📉 Dashboard
+## ✔️ Conclusion
+1.In Bangalore  there are 114 Nos of Hotel,8 Nos of locations and 55 Nos of Areas
 
-![image](https://user-images.githubusercontent.com/24353357/151335004-7a4a0a84-be12-4f2c-9d66-4744c4cee792.png)
+2.Koramangala area has more number of shops with a total of 61 shops.
+
+3.'BTM' location is 2nd with 33 shops, followed by 'HSR' with 15 shops. 
+
+4.Khichdi Experiment shop has highest rating of 4.8 and has a best price of 200 Rupees , it is located in Koramangala. 
+
+5.Based on ratings, top 10 shops are located in BTM,HSR & Koramangala. 
+
+6.Only North Indian Cuisine is mostly available in 12+ shops 
+
+7.Koramangala location has more i.e, 53.39 % of availability of hotels
